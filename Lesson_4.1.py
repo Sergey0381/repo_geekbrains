@@ -1,4 +1,4 @@
-#  Task 1
+#  Task_1
 
 from sys import argv  # Из библиотеки sys импортируем элемент argv для ввода аргументов из cmd
 
